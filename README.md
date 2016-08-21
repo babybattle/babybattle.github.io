@@ -13,3 +13,6 @@ git merge
 
 
 git submit -m "comment"
+
+git remote add 
+git remote rm
