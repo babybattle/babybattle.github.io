@@ -16,3 +16,10 @@ git submit -m "comment"
 
 git remote add 
 git remote rm
+
+
+
+### Revert
+git revert HEAD
+git revert HEAD^
+git revert commit-id
