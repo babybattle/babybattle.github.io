@@ -15,4 +15,8 @@ git merge
 git submit -m "comment"
 
 git remote add 
-git remote rm
+git remote rm\
+
+### Git Reset
+git reset 取消 git add rm 等状态 
+
